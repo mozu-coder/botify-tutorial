@@ -80,4 +80,3 @@ Acompanhe seus ganhos em tempo real.
 * **Solicitar Saque:** Envie o saldo direto para sua conta bancária via Pix.
 
 ![Print: Carteira e Extrato](assets/carteira.jpeg)
-*(Mostre a tela de saldo e o histórico de transações)*
